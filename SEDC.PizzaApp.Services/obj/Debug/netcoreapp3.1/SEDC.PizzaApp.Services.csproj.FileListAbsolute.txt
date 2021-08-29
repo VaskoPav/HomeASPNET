@@ -1,0 +1,14 @@
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.deps.json
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.dll
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.pdb
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.Pizza.App.DataAccess.dll
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.Pizza.App.DataAccess.pdb
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.csproj.CopyComplete
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.dll
+C:\Users\Vasko\Desktop\ASP.MVC\Class06ExtraHomework\SEDC.PizzaApp\SEDC.PizzaApp.Services\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Services.pdb
